@@ -1,0 +1,2 @@
+rootProject.name='Lientary'
+include ':app'
